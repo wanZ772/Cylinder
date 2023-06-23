@@ -1,5 +1,5 @@
 # Cylinder
-## <sub>This program has 2 parts. This program will analys data given in list for the cylinders such as height, radius, index and turn to information</sub>
+## <sub>This program has 2 parts. This program will analyst data given in list for the cylinders such as height, radius, index and turn to information</sub>
 
 ***Coded by WanZ***
 
